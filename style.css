@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    margin: 0 auto;
+   font-family: sans-serif;
+   background-color: #dcd5d5;
+}
+
+
+
+.card{
+    width: 100%;
+}
+h2 {
+    text-transform: uppercase;
+}
+h2:hover{
+    color: rgb(252, 0, 0);
+}
+/* macht neue line wie (br)) */
+p{
+    white-space: pre;
+}
+ul li{
+    list-style: none;
+}
+
+
+
